@@ -12,6 +12,7 @@ body {
 }
 
 .madde {
+  display: inline-block;
   margin-left: 75px;
 }
 
@@ -28,6 +29,9 @@ h1 {
   width: 250px;
   height: 250px;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+}
+.urunler {
+  text-align: center;
+  margin-left: 35px;
 }
