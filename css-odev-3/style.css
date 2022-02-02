@@ -1,5 +1,7 @@
 .container {
   padding: 10px 15px 0px 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
 }
 
 .altbar {
@@ -144,6 +146,12 @@
   padding-right: 30px;
   margin-top: 20px;
   width: 582px;
+  border-radius: 50px;
+}
+
+.search-area:hover {
+  -webkit-box-shadow: 1px 1px 6px 1px #000000;
+  box-shadow: 1px 1px 6px 1px #000000;
 }
 
 .search-img {
