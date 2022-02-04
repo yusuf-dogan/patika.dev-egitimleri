@@ -1,0 +1,11 @@
+.navbar {
+  background-image: url("../img/navbar-arkaplan.jpg");
+}
+
+body {
+  background-color: #e9ecef;
+}
+
+li {
+  list-style-position: inside;
+}
