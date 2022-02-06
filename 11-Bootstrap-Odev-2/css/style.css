@@ -14,7 +14,7 @@ input.form-control.input {
   font-size: 14px;
   font-family: sans-serif;
   color: gray;
-  background-image: url("/11-Bootstrap-Odev-2/img/search-icon.png");
+  background-image: url("../img/search-icon.png");
   background-repeat: no-repeat;
   background-position: calc(3% - 0%) calc(100% - 55%);
   background-size: 13px;
