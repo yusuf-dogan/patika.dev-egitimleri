@@ -1,0 +1,37 @@
+/******************* Layout **********************/
+
+html,
+body {
+  background-color: sandybrown;
+  font-family: "Open Sans", sans-serif;
+}
+
+.navbar {
+  position: relative;
+  text-align: center;
+}
+
+.madde {
+  display: inline-block;
+  margin-left: 75px;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+.list {
+  list-style-position: inside;
+  text-align: center;
+}
+
+.resim {
+  width: 250px;
+  height: 250px;
+  display: block;
+  margin: auto;
+}
+.urunler {
+  text-align: center;
+  margin-left: 35px;
+}
